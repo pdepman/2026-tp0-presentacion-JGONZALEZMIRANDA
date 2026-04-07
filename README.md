@@ -5,9 +5,34 @@
 * **Legajo N°:** 213.765-3
 
 ## Mi Foto
+
 <div align="center">
-  <img src="mi-perfil.jpg" width="200px" style="border: 2px solid #ccc; border-radius: 15px;" alt="Mi Foto">
-  <p><i>**Legajo: 213.765-3**</p>
+  <img src="https://github.com/pdepman/2026-tp0-presentacion-JGONZALEZMIRANDA/blob/main/mi-perfil.jpg?raw=true " width="300px" style="border: 3px solid #ccc; border-radius: 20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2);" alt="Foto de José Rafael">
+  <br>
+  <p><b>Legajo: 213.765-3</b></p>
 </div>
 
 
+# ¡Hola! Soy Jose Rafael 👋
+
+## 👤 Sobre mí
+Soy **Contador** de profesión, pero un apasionado de la tecnología por elección. Actualmente estoy expandiendo mis horizontes formándome en el **área de sistemas**, convencido de que el mundo actual evoluciona cada dia mas hacia la tecnologia y por ellos es importante manejarla. 🚀
+
+Trabajo como **Soporte Funcional**, ayudando a usuarios a amigarse con los sistemas de gestión. Además, tengo experiencia Docente lo que me ayuda a enseñar con paciencia y la claridad posible.
+
+> "Vonsidero que siempre se  para aprender; algo que en el mundo actual, la clave es la adaptabilidad." 💡
+
+---
+
+## 🌊 Lo que me hace vibrar
+No todo es trabajo y estudio. Cuando me desconecto, me encontrás:
+* **En el agua:** Nadar es mi cable a tierra. 🏊‍♂️
+* **Al aire libre:** Disfruto del mar y de estar rodeado de naturaleza. 🌳☀️
+* **Cantando:** Formo parte de un coro; el canto coral es mi forma de conectar con los demás. 🎶
+
+---
+
+## 🛠️ En constante aprendizaje
+Soy una persona **perseverante** y siempre estoy buscando reinventarme. 
+
+¡Un gusto conocerlos!
