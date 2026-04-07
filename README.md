@@ -20,7 +20,7 @@ Soy **Contador** de profesión, pero un apasionado de la tecnología por elecci�
 
 Trabajo como **Soporte Funcional**, ayudando a usuarios a amigarse con los sistemas de gestión. Además, tengo experiencia Docente lo que me ayuda a enseñar con paciencia y la claridad posible.
 
-> "Vonsidero que siempre se  para aprender; algo que en el mundo actual, la clave es la adaptabilidad." 💡
+> "Considero que siempre se puede aprender cosas que nos ayuden a desarrollar nuevas habilidades ;porque  en el mundo actual es clave la adaptabilidad." 💡
 
 ---
 
