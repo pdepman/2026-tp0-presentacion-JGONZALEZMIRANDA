@@ -20,7 +20,7 @@ Soy **Contador** de profesión, pero un apasionado de la tecnología por elecci�
 
 Trabajo como **Soporte Funcional**, ayudando a usuarios a amigarse con los sistemas de gestión. Además, tengo experiencia Docente lo que me ayuda a enseñar con paciencia y la claridad posible.
 
-> "Considero que siempre se puede aprender cosas que nos ayuden a desarrollar nuevas habilidades ;porque  en el mundo actual es clave la adaptabilidad." 💡
+> "Considero que siempre se puede aprender cosas que nos ayuden a desarrollar nuevas habilidades ;porque  en el mundo actual es clave la adaptabilidad." 💡Es entender que estamos en un estado de 'Beta Permanente' (concepto de Reid Hoffman, cofundador de LinkedIn): hoy todos somos como una App en versión Beta, donde siempre estamos recibiendo actualizaciones y mejoras. No somos un producto terminado, sino un software que nunca deja de evolucionar. 🚀📱🔄"
 
 ---
 
@@ -28,7 +28,7 @@ Trabajo como **Soporte Funcional**, ayudando a usuarios a amigarse con los siste
 No todo es trabajo y estudio. Cuando me desconecto, me encontrás:
 * **En el agua:** Nadar es mi cable a tierra. 🏊‍♂️
 * **Al aire libre:** Disfruto del mar y de estar rodeado de naturaleza. 🌳☀️
-* **Cantando:** Formo parte deL coro VOCES DEL PLATA, les dejo el enlace de un video del Coro; el canto coral es mi forma de conectar con los demás. 🎶
+* **Cantando:** Formo parte deL coro VOCES DEL PLATA desde  2025 , aunque ya habia cantado en otos coros antes .Les dejo el enlace de un video del Coro; el canto coral es mi forma de conectar con los demás. 🎶
 
 > 🔗 [**Clic aquí para ver el CORO VOCES DEL PLATA (Google Drive)**]( https://drive.google.com/file/d/1UJ4tiVGVxls2z0mTwpMrGwAECLk-_UUR/view?usp=drive_link
 )
