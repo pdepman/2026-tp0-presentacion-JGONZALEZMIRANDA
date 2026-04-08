@@ -16,7 +16,7 @@
 # ¡Hola! Soy Jose Rafael 👋
 
 ## 👤 Sobre mí
-Soy **Contador** de profesión, pero un apasionado de la tecnología por elección. Actualmente estoy expandiendo mis horizontes formándome en el **área de sistemas**, convencido de que el mundo actual evoluciona cada dia mas hacia la tecnologia y por ellos es importante manejarla. 🚀
+Soy **Contador** de profesión, pero un apasionado de la tecnología por elección. Actualmente estoy expandiendo mis horizontes formándome en el **área de sistemas**, convencido de que el mundo actual evoluciona cada dia mas hacia la tecnologia y por ello es importante manejarla. 🚀
 
 Trabajo como **Soporte Funcional**, ayudando a usuarios a amigarse con los sistemas de gestión. Además, tengo experiencia Docente lo que me ayuda a enseñar con paciencia y la claridad posible.
 
@@ -28,7 +28,7 @@ Trabajo como **Soporte Funcional**, ayudando a usuarios a amigarse con los siste
 No todo es trabajo y estudio. Cuando me desconecto, me encontrás:
 * **En el agua:** Nadar es mi cable a tierra. 🏊‍♂️
 * **Al aire libre:** Disfruto del mar y de estar rodeado de naturaleza. 🌳☀️
-* **Cantando:** Formo parte deL coro VOCES DEL PLATA desde  2025 , aunque ya habia cantado en otos coros antes .Les dejo el enlace de un video del Coro; el canto coral es mi forma de conectar con los demás. 🎶
+* **Cantando:** Formo parte del coro VOCES DEL PLATA desde  2025 , aunque ya habia cantado en otros coros anteriormente .Les dejo el enlace de un video del Coro; el canto coral es mi forma de conectar con los demás. 🎶
 
 > 🔗 [**Clic aquí para ver el CORO VOCES DEL PLATA (Google Drive)**]( https://drive.google.com/file/d/1UJ4tiVGVxls2z0mTwpMrGwAECLk-_UUR/view?usp=drive_link
 )
